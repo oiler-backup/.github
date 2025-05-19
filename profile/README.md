@@ -9,3 +9,5 @@ Currently, the following database types are supported:
 - PostgreSQL
 - MySQL
 - MongoDB
+
+Moreover, you can use our [CLI](https://github.com/oiler-backup/cli) to simlify interraction with adapter.
